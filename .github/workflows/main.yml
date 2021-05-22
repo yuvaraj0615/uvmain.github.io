@@ -27,7 +27,7 @@ jobs:
           personal_token: ${{ secrets.TOKEN }}
           external_repository: yuvaraj0615/uvmain.github.io
           publish_dir: ./public
-          #   keep_files: true
+          keep_files: true
           user_name: uvmain
           user_email: yuvaraj0615@gmail.com
           publish_branch: main

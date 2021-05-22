@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://uvmain.github.io/"
 languageCode = "en-us"
 title = "Yuvaraj Hugo Site"
 theme = "ananke"
